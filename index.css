@@ -1,0 +1,28 @@
+
+.img{
+	height: 115px;
+	width: 200px;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+h1{
+	color: white;
+}
+h2{
+	color: white;
+
+}
+ul{
+	padding-right: 20px;
+	color: white;
+	font-size: 20px;
+	background-color:black;
+}
+body{
+	background-color: rgb(8, 32, 76);
+}
